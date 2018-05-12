@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '24959'
     url: http://www.gutenberg.org/2009/agents/24959
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21900#The-Principles-of-BreedingReproduction-and-Improvement-of-Domestic-Animals
 gutenberg_bookshelf: Zoology
 gutenberg_issued: '2007-06-22'
 gutenberg_type: Text
